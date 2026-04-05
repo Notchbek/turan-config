@@ -1,0 +1,2 @@
+# turan-config
+Kerakli configlat
